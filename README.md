@@ -1,4 +1,6 @@
-# repositorio
+# repogj
+
+## Descripcion
 
 Demostración de sincronización de repositorios en git y github
 
